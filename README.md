@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teacher
 
 To start your Phoenix app:
